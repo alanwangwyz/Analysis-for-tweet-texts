@@ -6,12 +6,16 @@
 
 ## Twitter Analysis ##
 👉 Twitter Streamlistener
+
 👉 Vadersentiment to differentiate emotion
+
 👉 Profanity
+
 👉 Brown corpus to measure word similarity (Lin similarity)
 
 ## Database ##
 🛋️ couchDB 
+
 🐳 Well performed for Mapreduce
 
 ## Aurin Portal ##
