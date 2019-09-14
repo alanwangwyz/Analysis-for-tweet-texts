@@ -18,7 +18,7 @@
 
 🐳 Well performed for Mapreduce
 
-![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Twitter .jpeg)
+![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Twitter.jpeg)
 
 ## Nectar Link ##
 https://dashboard.cloud.unimelb.edu.au/project/
