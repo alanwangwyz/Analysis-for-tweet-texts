@@ -18,11 +18,11 @@
 
 🐳 Well performed for Mapreduce
 
-![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Twitter.jpg)
+![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Twitter.jpeg)
 
 ## Nectar Link ##
 https://dashboard.cloud.unimelb.edu.au/project/
 
-![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Nectar.jpg)
+![image](https://github.com/alanwangwyz/Analysis-for-tweet-texts/blob/master/image/Nectar.jpeg)
 ## Aurin Portal ##
 https://aurin.org.au/
